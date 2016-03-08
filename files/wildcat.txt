@@ -1,4 +1,5 @@
 first line.
 second line.
 third line.
-crazy change not necessary for commit
+crazy change not necessary for commit.
+change made at 1042am for testing the git revert
