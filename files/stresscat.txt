@@ -1,2 +1,3 @@
 not enough stress on this cat
 already staged file, if so ready to commit?
+committing for testing reset which will remove completely from history
