@@ -1,3 +1,5 @@
 not enough stress on this cat
 already staged file, if so ready to commit?
 i am the change before reverting and its important
+
+i am the bug and this line not necessary
