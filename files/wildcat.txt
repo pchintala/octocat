@@ -3,4 +3,6 @@ second line.
 third line.
 crazy change not necessary for commit
 
-wild cat changes
+wild cat changes again and again
+
+ammending the changes to most recent commit agagin
