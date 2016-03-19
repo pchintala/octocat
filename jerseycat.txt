@@ -3,3 +3,4 @@ however more learning follows more commits.
 making some changes to learn git revert
 #new change
 this file is now changed using brackets
+after the new groceries are listed
